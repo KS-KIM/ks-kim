@@ -1,4 +1,7 @@
 [![ks-kim's github stats](https://github-readme-stats.vercel.app/api?username=ks-kim)](https://github.com/ks-kim)
 
-<a href="https://www.notion.so/kskim/RESUME-a7446a49e0214b1180a2905c42498af9" target="_blank">
-<img src="https://user-images.githubusercontent.com/20358042/95015063-de01a980-0685-11eb-88df-62acaa8fe80f.png" width="15%"></img></a>
+## 바로가기
+
+[포트폴리오](https://www.notion.so/kskim/RESUME-a7446a49e0214b1180a2905c42498af9)
+
+[우아한테크코스 활동 내용](https://github.com/KS-KIM/woowacourse-projects)
