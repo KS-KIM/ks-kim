@@ -1,4 +1,4 @@
-[![ks-kim's github stats](https://github-readme-stats.vercel.app/api?username=ks-kim)](https://github.com/ks-kim)
+[![ks-kim's github stats](https://github-readme-stats.vercel.app/api?username=ks-kim&include_all_commits=true)](https://github.com/ks-kim)
 
 ## 바로가기
 
